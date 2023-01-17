@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AssignmentsSimplify/static/css/main.3f10475b.css",
-    "main.js": "/AssignmentsSimplify/static/js/main.eccd13f4.js",
+    "main.css": "/AssignmentsSimplify/static/css/main.4a69fc28.css",
+    "main.js": "/AssignmentsSimplify/static/js/main.33b74ea9.js",
     "static/js/787.f063bc3a.chunk.js": "/AssignmentsSimplify/static/js/787.f063bc3a.chunk.js",
     "static/media/Section3Img.PNG": "/AssignmentsSimplify/static/media/Section3Img.093170dfcc68f74320ca.PNG",
     "static/media/Avtar2.PNG": "/AssignmentsSimplify/static/media/Avtar2.b15cecb9fcb9133b1f0e.PNG",
@@ -15,12 +15,12 @@
     "static/media/Logo.PNG": "/AssignmentsSimplify/static/media/Logo.2df140fcfbeb942465ad.PNG",
     "static/media/Submit.svg": "/AssignmentsSimplify/static/media/Submit.ed9d3966f63a04f759e92bb74b84f629.svg",
     "index.html": "/AssignmentsSimplify/index.html",
-    "main.3f10475b.css.map": "/AssignmentsSimplify/static/css/main.3f10475b.css.map",
-    "main.eccd13f4.js.map": "/AssignmentsSimplify/static/js/main.eccd13f4.js.map",
+    "main.4a69fc28.css.map": "/AssignmentsSimplify/static/css/main.4a69fc28.css.map",
+    "main.33b74ea9.js.map": "/AssignmentsSimplify/static/js/main.33b74ea9.js.map",
     "787.f063bc3a.chunk.js.map": "/AssignmentsSimplify/static/js/787.f063bc3a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f10475b.css",
-    "static/js/main.eccd13f4.js"
+    "static/css/main.4a69fc28.css",
+    "static/js/main.33b74ea9.js"
   ]
 }
