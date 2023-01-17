@@ -10,7 +10,7 @@ const Section3 = () =>{
         <div style={{backgroundColor:"#f4f8fb"}} className="h-full w-full p-0 m-0">
         <div className=" max-w-6xl m-auto p-10">
         <div className="flex flex-col items-center  w-10/12 m-auto">
-        <h1 data-aos="fade-up" className="Heading text-5xl font-bold text-center">Experience assignment help like never before </h1>
+        <h1 data-aos="fade-up" className="Heading md:text-6xl text-4xl font-bold text-center">Experience assignment help like never before </h1>
         </div>
         <div className="Grids py-20 ">
             <div data-aos="fade-right" style={{backgroundImage:`url(${ExpertsSvg})`,backgroundPosition:"bottom",backgroundSize:"contain",backgroundRepeat:"no-repeat"}} className="Grid  bg-white h-80 rounded-lg shadow-md p-5">

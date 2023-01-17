@@ -27,12 +27,12 @@ const Section4 = () => {
          </div>
         
          </div>
-         <div data-aos="fade-left"  className="Grid rounded-lg h-96 p-5 flex shadow-md">
+         <div data-aos="fade-left"  className="Grid rounded-lg h-full p-5 flex shadow-md">
          <img src={Avtar3Logo} className="w-16 h-16"></img>
          <div>
          <p className="text-2xl">Eddie</p>
          <p className="text-xl text-gray-400">Phycology</p>
-         <p className="text-gray-500">Their customer service was also top-notch. They were always available to answer my queries and were very prompt in delivering my assignments. Overall, I am extremely satisfied with the services provided by AssignmentsSimplify and I highly recommend them to any business management student in need of assignment help."</p>
+         <p className="text-gray-500">Their customer service was also top-notch. They were always available to answer my queries and were very prompt in delivering my assignments. Overall, I am extremely satisfied with the services provided by AssignmentsSimplify and I highly recommend them to any student in need of assignment help."</p>
          </div>
        
          </div>
