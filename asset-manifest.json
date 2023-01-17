@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AssignmentsSimplify/static/css/main.e1d763d0.css",
+    "main.js": "/AssignmentsSimplify/static/js/main.7c2cd31d.js",
+    "static/js/787.f063bc3a.chunk.js": "/AssignmentsSimplify/static/js/787.f063bc3a.chunk.js",
+    "static/media/Section3Img.PNG": "/AssignmentsSimplify/static/media/Section3Img.093170dfcc68f74320ca.PNG",
+    "static/media/LogoLanding.png": "/AssignmentsSimplify/static/media/LogoLanding.350e5e818a0f9d68f4c4.png",
+    "static/media/Support.svg": "/AssignmentsSimplify/static/media/Support.8c53880c548de83d3ebc8cf675b2a46d.svg",
+    "static/media/Experts.svg": "/AssignmentsSimplify/static/media/Experts.54ad4b28e5533a72df29e1ad1a789362.svg",
+    "static/media/ReferFriend.svg": "/AssignmentsSimplify/static/media/ReferFriend.c6e91c0ec83c1abc2fa53334dd8bd2ef.svg",
+    "static/media/Grade.svg": "/AssignmentsSimplify/static/media/Grade.701c5fe95e91a2ec9afffc9b77682f32.svg",
+    "static/media/Logo.PNG": "/AssignmentsSimplify/static/media/Logo.2df140fcfbeb942465ad.PNG",
+    "static/media/Submit.svg": "/AssignmentsSimplify/static/media/Submit.ed9d3966f63a04f759e92bb74b84f629.svg",
+    "index.html": "/AssignmentsSimplify/index.html",
+    "main.e1d763d0.css.map": "/AssignmentsSimplify/static/css/main.e1d763d0.css.map",
+    "main.7c2cd31d.js.map": "/AssignmentsSimplify/static/js/main.7c2cd31d.js.map",
+    "787.f063bc3a.chunk.js.map": "/AssignmentsSimplify/static/js/787.f063bc3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1d763d0.css",
+    "static/js/main.7c2cd31d.js"
+  ]
+}
