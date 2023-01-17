@@ -1,9 +1,9 @@
 import Logo from "../../Assets/Logo/Logo.PNG";
 const Header = () => {
     return (
-        <div id="Header max-w-7xl">
+        <div id="Header w-full">
 
-        <nav className="flex justify-around p-4">
+        <nav className="flex justify-around p-4 max-w-7xl m-auto">
             <div className="logo">
             <img src={Logo} className="w-40"></img>
             </div>

@@ -74,6 +74,9 @@
     gap: 1.2rem;
     grid-template-columns: repeat(3,1fr);
 }
+.Grid{
+    background-color: white;
+}
 .Grid-col-span-2{
     grid-column: span 2;
 }
