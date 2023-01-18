@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/AssignmentsSimplify/static/css/main.4a69fc28.css",
-    "main.js": "/AssignmentsSimplify/static/js/main.33b74ea9.js",
+    "main.css": "/AssignmentsSimplify/static/css/main.01034070.css",
+    "main.js": "/AssignmentsSimplify/static/js/main.cd6fb6fb.js",
     "static/js/787.f063bc3a.chunk.js": "/AssignmentsSimplify/static/js/787.f063bc3a.chunk.js",
+    "static/media/IphoneSection2.mp4": "/AssignmentsSimplify/static/media/IphoneSection2.bc2a62bb09b8aa758f82.mp4",
     "static/media/Section3Img.PNG": "/AssignmentsSimplify/static/media/Section3Img.093170dfcc68f74320ca.PNG",
     "static/media/Avtar2.PNG": "/AssignmentsSimplify/static/media/Avtar2.b15cecb9fcb9133b1f0e.PNG",
     "static/media/Avtar.PNG": "/AssignmentsSimplify/static/media/Avtar.127310b27f2274c5cc4d.PNG",
@@ -15,12 +16,12 @@
     "static/media/Logo.PNG": "/AssignmentsSimplify/static/media/Logo.2df140fcfbeb942465ad.PNG",
     "static/media/Submit.svg": "/AssignmentsSimplify/static/media/Submit.ed9d3966f63a04f759e92bb74b84f629.svg",
     "index.html": "/AssignmentsSimplify/index.html",
-    "main.4a69fc28.css.map": "/AssignmentsSimplify/static/css/main.4a69fc28.css.map",
-    "main.33b74ea9.js.map": "/AssignmentsSimplify/static/js/main.33b74ea9.js.map",
+    "main.01034070.css.map": "/AssignmentsSimplify/static/css/main.01034070.css.map",
+    "main.cd6fb6fb.js.map": "/AssignmentsSimplify/static/js/main.cd6fb6fb.js.map",
     "787.f063bc3a.chunk.js.map": "/AssignmentsSimplify/static/js/787.f063bc3a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a69fc28.css",
-    "static/js/main.33b74ea9.js"
+    "static/css/main.01034070.css",
+    "static/js/main.cd6fb6fb.js"
   ]
 }
