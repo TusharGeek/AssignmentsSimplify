@@ -8,7 +8,7 @@ const Section4 = () => {
         <div style={{backgroundColor:"#f4f8fb"}} className="h-full w-full">
         <div className="max-w-6xl m-auto p-10">
         <h1 data-aos="fade-up" className="md:text-6xl text-3xl font-bold text-center"><span style={{color:"#ca4246"}}>1000+</span> Students Trust AssignmentsSimplify</h1>
-        <div className="Grids py-20">
+        <div className="Grids Testimonial py-20">
          <div data-aos="fade-right" className="Grid rounded-2xl h-full p-5 flex shadow-md">
          <img src={AvtarLogo} className="w-16 h-16"></img>
          <div>

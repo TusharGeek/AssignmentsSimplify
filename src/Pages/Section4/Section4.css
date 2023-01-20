@@ -7,11 +7,21 @@
     grid-column: span 2;
 }
 
+@media (max-width:1175px){
+    .Testimonial{
+        grid-template-columns:repeat(2,1fr);
+    }
+}
 @media (max-width: 786px){
     .Grids{
      grid-template-columns: 1fr;
+    }
+    .Testimonial{
+        grid-template-columns: 1fr;
     }
     .Grid-col-span-2{
         grid-column: span 1;
     }
 }
+
+
