@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AssignmentsSimplify/static/css/main.3ea39d1c.css",
-    "main.js": "/AssignmentsSimplify/static/js/main.74d684e1.js",
+    "main.css": "/AssignmentsSimplify/static/css/main.c92b3f85.css",
+    "main.js": "/AssignmentsSimplify/static/js/main.d8f002fc.js",
     "static/js/787.f063bc3a.chunk.js": "/AssignmentsSimplify/static/js/787.f063bc3a.chunk.js",
     "static/media/IphoneSection2.mp4": "/AssignmentsSimplify/static/media/IphoneSection2.bc2a62bb09b8aa758f82.mp4",
     "static/media/Business.jpg": "/AssignmentsSimplify/static/media/Business.a3b5af826995f7361b4f.jpg",
@@ -17,12 +17,12 @@
     "static/media/Logo.PNG": "/AssignmentsSimplify/static/media/Logo.2df140fcfbeb942465ad.PNG",
     "static/media/Submit.svg": "/AssignmentsSimplify/static/media/Submit.ed9d3966f63a04f759e92bb74b84f629.svg",
     "index.html": "/AssignmentsSimplify/index.html",
-    "main.3ea39d1c.css.map": "/AssignmentsSimplify/static/css/main.3ea39d1c.css.map",
-    "main.74d684e1.js.map": "/AssignmentsSimplify/static/js/main.74d684e1.js.map",
+    "main.c92b3f85.css.map": "/AssignmentsSimplify/static/css/main.c92b3f85.css.map",
+    "main.d8f002fc.js.map": "/AssignmentsSimplify/static/js/main.d8f002fc.js.map",
     "787.f063bc3a.chunk.js.map": "/AssignmentsSimplify/static/js/787.f063bc3a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ea39d1c.css",
-    "static/js/main.74d684e1.js"
+    "static/css/main.c92b3f85.css",
+    "static/js/main.d8f002fc.js"
   ]
 }
