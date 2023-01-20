@@ -1,11 +1,13 @@
 import "./Section3.css"
-import Section3Img1 from "../../Assets/Section3/Section3Img.PNG";
+
 import ExpertsSvg from "../../Assets/Section3/Experts.jpg";
 import Coding from "../../Assets/Section3/Coding.jpg";
-import Grade from "../../Assets/Section3/Grade.svg";
+
 import Business from "../../Assets/Section3/Business.jpg";
 import Submit from "../../Assets/Section3/Submit.svg";
-import Support from "../../Assets/Section3/Support.svg";
+import Essay from "../../Assets/Section3/Essay.jpg";
+import Original from "../../Assets/Section3/Original.png";
+
 const Section3 = () =>{
     return (
         <div style={{backgroundColor:"#f4f8fb"}} className="h-full w-full p-0 m-0">
@@ -23,11 +25,11 @@ const Section3 = () =>{
             <div data-aos="fade-right" style={{backgroundImage:`url(${Business})`,backgroundPosition:"bottom",backgroundSize:"cover",backgroundRepeat:"no-repeat"}}  className="Grid  bg-white h-80 rounded-2xl shadow-md p-5">
             <h1  className="font-bold text-3xl text-gray-100">Business Analysis and Reports from MBA Professionals</h1>
             </div>
-            <div data-aos="fade-left"  style={{backgroundImage:`url(${Grade})`,backgroundPosition:"bottom",backgroundSize:"contain",backgroundRepeat:"no-repeat"}} className="Grid bg-white h-48 rounded-2xl shadow-md p-5">
-            <h1  className="font-bold text-3xl text-gray-600">90% Above Marks</h1>
+            <div data-aos="fade-left"  style={{backgroundImage:`url(${Essay})`,backgroundPosition:"bottom",backgroundSize:"cover",backgroundRepeat:"no-repeat"}} className="Grid bg-white h-80 rounded-2xl shadow-md p-5">
+            <h1  className="font-bold text-3xl text-white">Expertly Crafted Essays</h1>
             </div>
-            <div data-aos="fade-left" style={{backgroundImage:`url(${Submit})`,backgroundPosition:"bottom",backgroundSize:"contain",backgroundRepeat:"no-repeat"}} className="Grid   bg-white h-48 rounded-2xl shadow-md p-5">
-            <h1  className="font-bold text-3xl text-gray-600">On Time Submission</h1>
+            <div data-aos="fade-left" style={{backgroundImage:`url(${Original})`,backgroundPosition:"center",backgroundSize:"contain",backgroundRepeat:"no-repeat"}} className="Grid   bg-white h-80 rounded-2xl shadow-md p-5">
+            <h1  className="font-bold text-2xl text-gray-600">Original and Authentic Assignments</h1>
             </div>
         </div>
 
