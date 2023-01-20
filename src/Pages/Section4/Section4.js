@@ -9,7 +9,7 @@ const Section4 = () => {
         <div className="max-w-6xl m-auto p-10">
         <h1 data-aos="fade-up" className="md:text-6xl text-3xl font-bold text-center"><span style={{color:"#ca4246"}}>1000+</span> Students Trust AssignmentsSimplify</h1>
         <div className="Grids py-20">
-         <div data-aos="fade-right" className="Grid rounded-lg h-full p-5 flex shadow-md">
+         <div data-aos="fade-right" className="Grid rounded-2xl h-full p-5 flex shadow-md">
          <img src={AvtarLogo} className="w-16 h-16"></img>
          <div>
          <p className="text-2xl">Ajaypal Singh</p>
@@ -18,7 +18,7 @@ const Section4 = () => {
          </div>
          
          </div>
-         <div data-aos="fade-left"  className="Grid rounded-lg h-full p-5 flex shadow-md">
+         <div data-aos="fade-left"  className="Grid rounded-2xl h-full p-5 flex shadow-md">
          <img src={Avtar2Logo} className="w-16 h-16"></img>
          <div>
          <p className="text-2xl">Rohini Kapoor</p>
@@ -27,7 +27,7 @@ const Section4 = () => {
          </div>
         
          </div>
-         <div data-aos="fade-left"  className="Grid rounded-lg h-full p-5 flex shadow-md">
+         <div data-aos="fade-left"  className="Grid rounded-2xl h-full p-5 flex shadow-md">
          <img src={Avtar3Logo} className="w-16 h-16"></img>
          <div>
          <p className="text-2xl">Eddie</p>
