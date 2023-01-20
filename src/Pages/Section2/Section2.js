@@ -7,11 +7,11 @@ import "./Section2.css";
 const Section2 = () => {
     return (
         <div className="py-10 px-10">
-        <div className="max-w-6xl m-auto Grids flex md:flex-row flex-col md:justify-center md:items-center justify-center" >
-        <div data-aos="fade-right" className="Grid">
+        <div className="max-w-6xl m-auto  flex md:flex-row flex-col md:justify-center md:items-center justify-center" >
+        <div data-aos="fade-right" className="w-12/12" >
         <video src="https://github.com/TusharGeek/AssignmentsSimplify/raw/main/src/Assets/Section2/IphoneSection2.mp4" autoPlay loop muted playsInline />
         </div>
-        <div className="Grid md:text-left text-center">
+        <div className=" md:text-left text-center">
         <h1 data-aos="fade-up" className="md:text-6xl text-3xl font-bold ">Book your <span style={{color:"#ca4246"}}>Assignment </span>Slot</h1>
         <div className="my-10">
             <div data-aos="fade-left" className="flex items-center ">
